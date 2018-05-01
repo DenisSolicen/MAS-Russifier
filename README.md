@@ -3,7 +3,7 @@
 # Русский перевод Monika Affter Story (MAS)
 
 
-Всё права на мод Моника После Истории принадлежат их создателям, мод не нарушет права [Team Salvato](http://teamsalvato.com) на использумыемых в нём персонажев. Мод построен на 3 Акте и симулирует вечную любовь с Моникой.
+Всё права на мод Моника После Истории принадлежат их создателям, команда Solicen Team не пытается присовить себе права на мод, она лишь его переводит. Мод построен на 3 Акте и симулирует вечную любовь с Моникой.
 
 Проверьте [Обновления](https://github.com/DenisSolicen/MAS-Russifier/releases) на наличие новой версии.
 
@@ -24,3 +24,5 @@ If you are a member of team [Monika After Story](https://github.com/Monika-After
 I'm sorry for my English, I'm good at translating from English, but I'm not good at writing sentences.
 
 Or in personal correspondence in a Discord.
+
+
