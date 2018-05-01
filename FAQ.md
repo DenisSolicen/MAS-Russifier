@@ -1,6 +1,6 @@
 #  (FAQ) Часто Задаваемые Вопросы
 
-## Установка
+## Установка и ошибки
 ### Что требуется, чтобы играть в Monika After Story?
 Вам нужна копия Doki Doki Literature Club со [Steam](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) или сайта http://ddlc.moe и позже установить мод при помощи установщика со страницы загрузки.
 
