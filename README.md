@@ -21,8 +21,9 @@
 ### For team [Monika After Story](https://github.com/Monika-After-Story)
 If you are a member of team [Monika After Story](https://github.com/Monika-After-Story) and you are somehow hurt by finding a translation on Github you can discuss it with me [Denis Solicen](https://twitter.com/DenisSolicen).
 
+Or in personal correspondence in a Discord.
+
 I'm sorry for my English, I'm good at translating from English, but I'm not good at writing sentences.
 
-Or in personal correspondence in a Discord.
 
 
