@@ -14,7 +14,7 @@
 * Следите за состоянием перевода в нашем [Discord](https://discord.gg/ZJ3SQpV).
 #
 ### Помощь переводу «Моника После Истории»
-* По любым ошибкам обращайтесь [сюда](vk.com/solicent), прилагая скриншот с ошибкой.
+* По любым ошибкам обращайтесь [сюда](https://vk.com/solicent), прилагая скриншот с ошибкой.
 * Или в наш [Discord](https://discord.gg/x2YHXwB), по теме ошибок.
 #
 ### For dev team - [«Monika After Story»](https://github.com/Monika-After-Story)
